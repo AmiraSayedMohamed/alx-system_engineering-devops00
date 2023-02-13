@@ -1,2 +1,1 @@
-#!/bin/bash
-echo "Hello, world"
+shell redirections and filters
